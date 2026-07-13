@@ -1397,3 +1397,5 @@ troubleshooting de GenieACS/TR-069 em ambiente ISP.
 O objetivo é registrar o processo, os erros encontrados e as decisões
 técnicas tomadas durante a implantação.
 
+<img width="1364" height="595" alt="vla" src="https://github.com/user-attachments/assets/bbfd19de-1069-4071-9ee0-e985e86c2360" />
+
