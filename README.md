@@ -1399,3 +1399,6 @@ técnicas tomadas durante a implantação.
 
 <img width="1364" height="595" alt="vla" src="https://github.com/user-attachments/assets/bbfd19de-1069-4071-9ee0-e985e86c2360" />
 
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JhonataLinux/genieacs-tr069-debian11)
+
